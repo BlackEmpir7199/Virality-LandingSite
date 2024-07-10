@@ -24,36 +24,35 @@ The **Virality Landing Page** is a beautifully crafted, modern web page designed
 - 📱 **Responsive Layout:** Seamless experience on all devices, from desktops to smartphones.
 - 🚀 **Hero Section:** An eye-catching hero section with a captivating headline and call-to-action button.
 - 💡 **Features Section:** Detailed features section with icons and descriptions.
-- 🎥 **Gallery:** A visually stunning gallery to showcase VR images and videos.
-- ⭐ **Testimonials:** A carousel of testimonials from satisfied users.
-- 📣 **Call to Action:** Strategically placed call-to-action buttons to drive user engagement.
-- ✉️ **Contact Form:** A simple and effective contact form for user inquiries.
+- 🎥 **Workflow:** A visually appealing workflow to highlight VR code workflows.
+- ⭐ **Testimonials:** A collection of testimonials from satisfied users.
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://virality-eight.vercel.app/).
 
 ## Screenshots
 
 ### Homepage
-![Homepage](./src/assets/profile-pictures/code.jpg)
+![image](https://github.com/BlackEmpir7199/Virality-LandingSite/assets/118678415/531e4da3-b8b2-41e2-95ca-5d94325b062e)
 *The engaging homepage with a striking hero section.*
 
 ### Features Section
-![Features](./screenshots/features.png)
+![image](https://github.com/BlackEmpir7199/Virality-LandingSite/assets/118678415/14526689-0d1c-427a-8b8f-2d885f9d0f58)
 *Showcase of the main features with sleek icons and descriptions.*
 
-### Gallery
-![Gallery](./screenshots/gallery.png)
-*A visually appealing gallery to highlight VR images and videos.*
+### Workflow
+![image](https://github.com/BlackEmpir7199/Virality-LandingSite/assets/118678415/7caaec66-ae01-47fc-ac56-4f484a6eedab)
+*A visually appealing workflow to highlight VR code workflows.*
+
+### Pricing
+![image](https://github.com/BlackEmpir7199/Virality-LandingSite/assets/118678415/35a895d6-0699-4733-802a-fbc0a8d1676e)
+*Cards for showcasing different tier subscriptions.*
 
 ### Testimonials
-![Testimonials](./screenshots/testimonials.png)
-*A carousel of testimonials from happy users.*
+![image](https://github.com/BlackEmpir7199/Virality-LandingSite/assets/118678415/c4201280-d634-41c0-8552-15575c8a91d3)
 
-### Contact Form
-![Contact Form](./screenshots/contact-form.png)
-*Easy-to-use contact form for user inquiries.*
+*A collection of testimonials from satisfied users.*
 
 ## Installation
 
