@@ -12,10 +12,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "Features", href: "features" },
+  { label: "Workflow", href: "workflow" },
+  { label: "Pricing", href: "pricing" },
+  { label: "Testimonials", href: "testimonials" },
 ];
 
 export const testimonials = [
@@ -100,22 +100,22 @@ export const checklistItems = [
   {
     title: "Code merge made easy",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Seamlessly integrate changes and ensure compatibility across your development team.",
   },
   {
     title: "Review code without worry",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Efficiently scrutinize code changes and maintain high-quality standards in your projects.",
   },
   {
     title: "AI Assistance to reduce time",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Utilize AI tools to streamline development processes and enhance productivity effortlessly.",
   },
   {
     title: "Share work in minutes",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Quickly distribute your VR creations and collaborate with team members with ease.",
   },
 ];
 
